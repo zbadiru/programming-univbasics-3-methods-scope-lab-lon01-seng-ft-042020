@@ -13,8 +13,6 @@ def link
   puts phrase_link
 end
 
-def all_phrases(phrase)
-  puts phrase
-  puts status
-  puts phrase_link
-end  
+def all_phrases()
+  puts mario
+end
